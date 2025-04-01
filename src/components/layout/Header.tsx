@@ -32,8 +32,13 @@ export function Header() {
             to="/" 
             className="flex items-center space-x-2 transition-transform duration-300 hover:scale-105"
           >
-              <img 
+{/*               <img 
               src="src/components/layout/icon.png" 
+              alt="FemFin Connect Logo" 
+              className="w-10 h-10 rounded-full"
+            /> */}
+            <img 
+              src="/lovable-uploads/0963a619-404e-4fdd-a08c-587c091aa69e.png" 
               alt="FemFin Connect Logo" 
               className="w-10 h-10 rounded-full"
             />
