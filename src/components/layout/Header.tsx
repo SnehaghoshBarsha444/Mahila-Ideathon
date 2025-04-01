@@ -33,7 +33,7 @@ export function Header() {
             className="flex items-center space-x-2 transition-transform duration-300 hover:scale-105"
           >
               <img 
-              src="/public/android-chrome-192x192.png" 
+              src="icon.png" 
               alt="FemFin Connect Logo" 
               className="w-10 h-10 rounded-full"
             />
