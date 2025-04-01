@@ -33,7 +33,7 @@ export function Header() {
             className="flex items-center space-x-2 transition-transform duration-300 hover:scale-105"
           >
             <div className="w-10 h-10 rounded-full bg-gradient-to-tr from-primary to-accent flex items-center justify-center">
-              <span><img src="public/favicon.ico"></span>
+              <img src="public/favicon.ico">
             </div>
             <span className="font-display font-semibold text-xl">FemFin Connect</span>
           </Link>
